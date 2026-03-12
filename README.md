@@ -11,6 +11,10 @@ Kill an ender dragon → become the ender dragon → rain destruction.
 - **[Quick Start Guide](docs/quick-start.md)** — Fastest path from zero to playing as monsters
 - **[Mod List](docs/mod-list.md)** — All mods with download links and install steps
 - **[Resources](docs/resources.md)** — Trusted mod sites, launchers, performance mods, gameplay tweaks, and more
+- **[Cool Identities](docs/cool-identities.md)** — Best mob transformations ranked with abilities and strategies
+- **[Backups](docs/backups.md)** — How to protect your worlds from corruption and crashes
+- **[Troubleshooting](docs/troubleshooting.md)** — Fixing crashes, memory issues, and mod conflicts
+- **[Safety Settings](docs/safety-settings.md)** — Parental controls, safe mod downloads, LAN setup
 
 ## Setup
 
