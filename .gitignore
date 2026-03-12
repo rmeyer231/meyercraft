@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Minecraft runtime (don't commit actual game/mod files)
+*.jar
+server/world/
+server/logs/
+server/*.json
+!server/server.properties
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# AgentOps
+.agents/
