@@ -1,0 +1,50 @@
+{
+  "memories": [],
+  "manual_memories": [],
+  "realtime_memories": [
+    {
+      "type": "decision",
+      "content": "Hardware: i9-13900HX, RTX 4070 Laptop (dual GPU — Intel+NVIDIA), 6GB allocated to MC. Prism Launcher 10.0.5. MC account: mrleodragon. Window can launch invisible on this laptop — use 'Start maximized' in Prism settings.",
+      "added_at": "2026-03-13T17:33:03.885930",
+      "source": "consolidated"
+    },
+    {
+      "type": "decision",
+      "content": "Migrating from Fabric 1.21.11 to NeoForge 1.21.1 to unlock creature mods. CRITICAL: creature mods target 1.21.1 specifically, NOT 1.21.11. User initially created instance on wrong version. Identity Fix (Morph) by Gabou is the NeoForge-native morph mod (not original Draylar Identity). Tilde key may not be default — check key binds for 'identity'.",
+      "added_at": "2026-03-13T18:18:59.058048",
+      "source": "consolidated"
+    },
+    {
+      "type": "tech_choice",
+      "content": "NeoForge 1.21.1 mod stack: GeckoLib, Architectury API, Gabou's Libs, Identity Fix (Morph), Jurassic Revived (dinos), IceAndFire CE (dragons), Mowzie's Mobs (bosses), Ben's Sharks, Sodium, FerriteCore. Design doc: docs/plans/2026-03-13-neoforge-migration-design.md",
+      "added_at": "2026-03-13T17:45:18.125347",
+      "source": "consolidated"
+    },
+    {
+      "type": "preference",
+      "content": "User is setting up modded MC for his son. Creature priorities: 1) Dinosaurs 2) Dragons 3) Godzilla/Kaiju. User is not a Minecraft modding expert — needs step-by-step guidance with exact UI instructions.",
+      "added_at": "2026-03-13T17:47:58.145913",
+      "source": "consolidated"
+    },
+    {
+      "type": "preference",
+      "content": "mods/ folder in repo is a collection/reference folder. Live instance mods are in C:/Users/randa/AppData/Roaming/PrismLauncher/instances/. Fabric 'Meyercraft' instance on 1.21.11 kept as fallback.",
+      "added_at": "2026-03-13T17:42:15.418256",
+      "source": "consolidated"
+    },
+    {
+      "type": "claude_response",
+      "content": "Let me know once you've recreated the instance on **1.21.1** and we'll get those creature mods installed!",
+      "added_at": "2026-03-13T18:22:36.795235",
+      "source": "realtime_capture"
+    },
+    {
+      "type": "message",
+      "content": "recreated",
+      "added_at": "2026-03-13T18:22:36.795257",
+      "source": "realtime_capture"
+    }
+  ],
+  "created_at": "2026-03-13T15:31:24.049590",
+  "updated_at": "2026-03-13T18:22:36.795258"
+}
